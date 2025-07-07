@@ -7,10 +7,10 @@ A collection of cybersecurity projects and technical notes combining foundationa
 - **Cybersecurity Notes**: Summarized topics by domain (threats, architecture, risk management, etc.)
 - **Write-Ups**: Real-world scenarios, incident response mock cases, annotated walkthroughs.
 - **Programming Experience**:
--     - Python : Scripting, automation, and analysis
--     - SQL : Secure database interaction and query logic
--     - Java : Foundational programming and secure coding practices
--     - Gadot Engine : 2D game development demonstrating creative problem-solving
+-     - **Python**: Scripting, automation, and analysis
+-     - **SQL**: Secure database interaction and query logic
+-     - **Java**: Foundational programming and secure coding practices
+-     - **Gadot Engine**: 2D game development demonstrating creative problem-solving
 - **Cloud and AI Experience**:
 -     - Familiar with cloud security concepts (IAM, CSPM, CASB, shared responsibility model)
 -     - Exposire to cloud platforms (AWS, Microsoft Azure fundamentals)
@@ -22,5 +22,4 @@ Self-driven cybersecurity professional with a Security+ Certification, Google Cy
 ## Why This Portfolio
 This portfolio demonstrates my practical experience, strong foundarion in security fundamentals, and adaptability in diverse environments. It highlights cross-disciplinary strengths in cybersecurity,              programming, cloud, and creative problem-solving through hands-on, applied projects. 
     
-- 
   

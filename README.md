@@ -6,12 +6,12 @@ A collection of cybersecurity projects and technical notes combining foundationa
 - **Tools Explored**: Nmap, Burp Suite, Metasploit, Security Onion.
 - **Cybersecurity Notes**: Summarized topics by domain (threats, architecture, risk management, etc.)
 - **Write-Ups**: Real-world scenarios, incident response mock cases, annotated walkthroughs.
-- **Programming Experience**:
+  **Programming Experience**:
 - **Python**: Scripting, automation, and analysis
 - **SQL**: Secure database interaction and query logic
 - **Java**: Foundational programming and secure coding practices
 - **Gadot Engine**: 2D game development demonstrating creative problem-solving
-- **Cloud and AI Experience**:
+  **Cloud and AI Experience**:
 - Familiar with cloud security concepts (IAM, CSPM, CASB, shared responsibility model)
 - Exposire to cloud platforms (AWS, Microsoft Azure fundamentals)
 - Use of AI-driven tools like GitHub Copilot and CHatGPY for secure code generation, log review, and security automation exploration

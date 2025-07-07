@@ -7,14 +7,14 @@ A collection of cybersecurity projects and technical notes combining foundationa
 - **Cybersecurity Notes**: Summarized topics by domain (threats, architecture, risk management, etc.)
 - **Write-Ups**: Real-world scenarios, incident response mock cases, annotated walkthroughs.
 - **Programming Experience**:
--     - **Python**: Scripting, automation, and analysis
--     - **SQL**: Secure database interaction and query logic
--     - **Java**: Foundational programming and secure coding practices
--     - **Gadot Engine**: 2D game development demonstrating creative problem-solving
+-     -**Python**: Scripting, automation, and analysis
+-     -**SQL**: Secure database interaction and query logic
+-     -**Java**: Foundational programming and secure coding practices
+-     -**Gadot Engine**: 2D game development demonstrating creative problem-solving
 - **Cloud and AI Experience**:
--     - Familiar with cloud security concepts (IAM, CSPM, CASB, shared responsibility model)
--     - Exposire to cloud platforms (AWS, Microsoft Azure fundamentals)
--     - Use of AI-driven tools like GitHub Copilot and CHatGPY for secure code generation, log review, and security automation exploration
+-     -Familiar with cloud security concepts (IAM, CSPM, CASB, shared responsibility model)
+-     -Exposire to cloud platforms (AWS, Microsoft Azure fundamentals)
+-     -Use of AI-driven tools like GitHub Copilot and CHatGPY for secure code generation, log review, and security automation exploration
 
 ## About Me
 Self-driven cybersecurity professional with a Security+ Certification, Google Cybersecurity Certificate, and Master's Degree in Intelligence and Global Security, transitioning into the field with a passion        for ethical hacking, secure architexture, curiosity, and lifelong learning. Strong background in critical thinking, technical skill, research, communication, and self-directed projects that combine technical      curiosity with real-world problem solving.

@@ -4,7 +4,7 @@ A collection of cybersecurity projects and technical notes combining foundationa
 ## What's Inside
 - **Labs & Projects**: Wireshark analysis, vulnerability scanning, threat modeling, log analysis, etc.
 - **Tools Explored**: Nmap, Burp Suite, Metasploit, Security Onion.
-- **Cybersecurity Notes**: Summarized topics by domain (threats, architecture, risk management, etc.)
+- **Cybersecurity Notes**: Summarized topics by domain (threats, architecture, risk management, MITRE ATT&CK, etc.)
 - **Write-Ups**: Real-world scenarios, incident response mock cases, annotated walkthroughs.
 - **Programming Experience**:
 - **Python**: Scripting, automation, and analysis

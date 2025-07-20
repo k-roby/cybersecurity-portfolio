@@ -2,18 +2,18 @@
 
 This script demonstrates how to update an `allow_list.txt` file by removing IP addresses that match any in a predefined `remove_list`.
 
-## 🗂️ Project Purpose
+##  Project Purpose
 
 Automating the cleanup of an allow list can help streamline access control in environments where IP restrictions are used. This script simulates a scenario where a security analyst needs to revoke access for outdated or malicious IPs.
 
-## 🧪 What the Script Does
+## What the Script Does
 
 - Reads a file called `allow_list.txt` containing allowed IP addresses
 - Compares those against a predefined list of IPs to remove
 - Removes matching IPs
 - Overwrites the original file with the updated list
 
-## 🧾 Example Code
+## Example Code
 
 ```python
 # Load and clean allow_list.txt by removing any IPs in the remove_list
@@ -41,7 +41,7 @@ with open("allow_list.txt", "w") as file:
     file.write(ip_addresses)
 ```
 
-## ✅ Skills Demonstrated
+## Skills Demonstrated
 
 - File I/O and data sanitation
 - List operations in Python

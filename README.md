@@ -13,7 +13,7 @@ A collection of cybersecurity projects and technical notes combining foundationa
 - **Cloud and AI Experience**:
 - Familiar with cloud security concepts
 - Exposire to cloud platforms 
-- Use of AI-driven tools like GitHub Copilot and CHatGPY for secure code generation, log review, and security automation exploration
+- Use of AI-driven tools like Copilot and ChatGPT for secure code generation, log review, and security automation exploration
 
 ## About Me
 Self-driven cybersecurity professional with a CompTIA Security+ Certification, AWS Certified Cloud Practitioner certification, Google Cybersecurity Certificate, and Master's Degree in Intelligence and Global Security, transitioning into the field with a passion        for cloud security, ethical hacking, secure architexture, curiosity, and lifelong learning. Strong background in critical thinking, technical skill, research, regulated environments, communication, and self-directed projects that combine technical      curiosity with real-world problem solving.

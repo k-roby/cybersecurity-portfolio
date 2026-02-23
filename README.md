@@ -16,7 +16,7 @@ A collection of cybersecurity projects and technical notes combining foundationa
 - Use of AI-driven tools like GitHub Copilot and CHatGPY for secure code generation, log review, and security automation exploration
 
 ## About Me
-Self-driven cybersecurity professional with a Security+ Certification, Google Cybersecurity Certificate, and Master's Degree in Intelligence and Global Security, transitioning into the field with a passion        for ethical hacking, secure architexture, curiosity, and lifelong learning. Strong background in critical thinking, technical skill, research, communication, and self-directed projects that combine technical      curiosity with real-world problem solving.
+Self-driven cybersecurity professional with a CompTIA Security+ Certification, AWS Certified Cloud Practitioner certification, Google Cybersecurity Certificate, and Master's Degree in Intelligence and Global Security, transitioning into the field with a passion        for cloud security, ethical hacking, secure architexture, curiosity, and lifelong learning. Strong background in critical thinking, technical skill, research, regulated environments, communication, and self-directed projects that combine technical      curiosity with real-world problem solving.
 
 ## Why This Portfolio
 This portfolio demonstrates my practical experience, strong foundarion in security fundamentals, and adaptability in diverse environments. It highlights cross-disciplinary strengths in cybersecurity,              programming, cloud, and creative problem-solving through hands-on, applied projects. 

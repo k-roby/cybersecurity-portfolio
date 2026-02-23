@@ -28,6 +28,17 @@ Configured the following controls:
 - Password expiration enabled
 - Password reuse prevention enabled
 - Users allowed to change their own passwords
+- ---
+
+## Evidence
+
+### IAM Account Settings
+
+![IAM Account Settings](P2%20Pw%20Policy1.png)
+
+### Custom Password Policy
+
+![Custom Password Policy](P2%20Pw%20Policy2.png)
 
 ---
 

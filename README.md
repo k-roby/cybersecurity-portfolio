@@ -9,7 +9,6 @@ A collection of cybersecurity projects and technical notes combining foundationa
 - **Python**: Scripting, automation, and analysis
 - **SQL**: Secure database interaction and query logic
 - **Java**: Foundational programming and secure coding practices
-- **Gadot Engine**: 2D game development demonstrating creative problem-solving
 - **Cloud and AI Experience**:
 - Familiar with cloud security concepts
 - Exposire to cloud platforms 
